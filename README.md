@@ -31,6 +31,12 @@ A web-based application for tracking personal finances, visualizing spending pat
 4. Set budget goals and track your progress
 5. Export your financial reports when needed
 
+## Author
+
+Ishaan John
+- GitHub: [@arther07](https://github.com/arther07)
+- Email: ishaanjohn21200@gmail.com   
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 
