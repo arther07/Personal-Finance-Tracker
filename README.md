@@ -34,8 +34,8 @@ A web-based application for tracking personal finances, visualizing spending pat
 ## Author
 
 Ishaan John
-- GitHub: [@arther07](https://github.com/arther07)
-- Email: ishaanjohn21200@gmail.com   
+- GitHub : [@arther07](https://github.com/arther07)
+- Email : ishaanjohn21200@gmail.com   
 
 ## Contributing
 
